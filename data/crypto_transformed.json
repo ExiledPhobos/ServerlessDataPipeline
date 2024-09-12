@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "btc",
+        "current_price": 52552,
+        "market_cap": 1038147230191,
+        "price_change_percentage_24h": 0.61025,
+        "circulating_supply": 19753271.0,
+        "last_updated": "2024-09-12T20:33:33.409Z"
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "eth",
+        "current_price": 2125.4,
+        "market_cap": 255712016430,
+        "price_change_percentage_24h": -0.07804,
+        "circulating_supply": 120330373.793716,
+        "last_updated": "2024-09-12T20:33:33.363Z"
+    },
+    {
+        "name": "BNB",
+        "symbol": "bnb",
+        "current_price": 487.41,
+        "market_cap": 71083543201,
+        "price_change_percentage_24h": 0.9589,
+        "circulating_supply": 145887575.79,
+        "last_updated": "2024-09-12T20:33:42.177Z"
+    },
+    {
+        "name": "Solana",
+        "symbol": "sol",
+        "current_price": 122.56,
+        "market_cap": 57297565258,
+        "price_change_percentage_24h": 1.73852,
+        "circulating_supply": 467930062.171106,
+        "last_updated": "2024-09-12T20:33:38.087Z"
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "doge",
+        "current_price": 0.092183,
+        "market_cap": 13436751740,
+        "price_change_percentage_24h": -0.25726,
+        "circulating_supply": 145906986383.705,
+        "last_updated": "2024-09-12T20:33:43.262Z"
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ada",
+        "current_price": 0.319357,
+        "market_cap": 11384278927,
+        "price_change_percentage_24h": 1.71981,
+        "circulating_supply": 35664388341.3215,
+        "last_updated": "2024-09-12T20:33:43.636Z"
+    },
+    {
+        "name": "Avalanche",
+        "symbol": "avax",
+        "current_price": 21.52,
+        "market_cap": 8721655844,
+        "price_change_percentage_24h": 0.94242,
+        "circulating_supply": 405327917.253529,
+        "last_updated": "2024-09-12T20:33:45.134Z"
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "dot",
+        "current_price": 3.86,
+        "market_cap": 5449186422,
+        "price_change_percentage_24h": 2.04089,
+        "circulating_supply": 1411716475.67893,
+        "last_updated": "2024-09-12T20:33:35.399Z"
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "ltc",
+        "current_price": 56.67,
+        "market_cap": 4249582512,
+        "price_change_percentage_24h": 0.51974,
+        "circulating_supply": 74966864.4834713,
+        "last_updated": "2024-09-12T20:33:40.321Z"
+    }
+]
